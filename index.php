@@ -31,6 +31,7 @@
                     <h3>Seção 4: Tipos Básicos Curso PHP</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=tipos&file=int">Tipo: Inteiros</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=float">Tipo: Float</a></li>
                     </ul>
                 </div>
             </nav>
