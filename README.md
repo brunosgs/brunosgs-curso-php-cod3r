@@ -2,7 +2,16 @@
 
 
 ## :pushpin: Sobre
-Nesse repositorio você vai encontrar todos os conceitos do estudo no curso [PHP 7 Completo - Curso do Desenvolvedor Web 2020 + Projetos](https://www.udemy.com/course/php-7-completo/)
+Nesse repositório você vai encontrar todos os conceitos estudados no curso [PHP 7 Completo - Curso do Desenvolvedor Web 2020 + Projetos](https://www.udemy.com/course/php-7-completo/)
+
+## :speech_balloon: Assuntos abordados
+Os assuntos que vão ser abordados ao decorrer desse curso seram:
+<ul>
+    <li>Em progresso... :hourglass_flowing_sand:</li> 
+    <li>Integração do PHP com o HTML e CSS</li>
+    <li>Tipos básicos do PHP</li>
+    <li>Variáveis e tipos de manipulações</li> 
+</ul>
 
 ## :hammer_and_wrench: Ferramentas
 - [VSCode (Visual Studio Code)](https://code.visualstudio.com/) utilizando os plugins:
