@@ -50,6 +50,7 @@
                         <li><a href="exercicio.php?dir=variaveis&file=variaveis_variaveis">Variáveis variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=desafio_variaveis">Desafio: Variáveis</a></li>
                         <li><a href="exercicio.php?dir=variaveis&file=valor_referencia">Valor vs Referência</a></li>
+                        <li><a href="exercicio.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
             </nav>
