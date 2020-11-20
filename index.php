@@ -57,6 +57,8 @@
                     <h3>Seção 6: Estruturas de controle #1</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">IF / ELSE</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores relacionais</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
