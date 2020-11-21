@@ -62,6 +62,7 @@
                         <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores lógicos</a>
                         <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio: Operadores
                                 lógicos</a>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternário</a>
                         </li>
                     </ul>
                 </div>
