@@ -3,8 +3,7 @@
 
 <head>
     <meta charset="UTF-8" />
-    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap"
-        rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Curso PHP</title>
 </head>
@@ -57,13 +56,13 @@
                     <h3>Seção 6: Estruturas de controle #1</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=controle&file=if_else">IF / ELSE</a></li>
-                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores relacionais</a>
-                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio: PI</a>
-                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores lógicos</a>
-                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio: Operadores
-                                lógicos</a>
-                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternário</a>
-                        </li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_relacionais">Operadores relacionais</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_pi">Desafio: PI</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operadores_logicos">Operadores lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_operadores_logicos">Desafio: Operadores lógicos</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=operador_ternario">Operador ternário</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=switch">Switch</a></li>
+                        <li><a href="exercicio.php?dir=controle&file=desafio_switch_1">Desafios: Switch</a></li>
                     </ul>
                 </div>
             </nav>
