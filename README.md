@@ -10,8 +10,9 @@ Os assuntos que vão ser abordados ao decorrer desse curso serão:
     <li>Integração do PHP com o HTML e CSS</li>
     <li>Tipos básicos do PHP</li>
     <li>Variáveis e tipos de manipulações</li>
-    <li>Estruturas de controle</li>
-    <li>Arrays Em progresso... :hourglass_flowing_sand:</li>
+    <li>Estruturas de controle #01</li>
+    <li>Arrays e Arrays multidimensional</li>
+    <li>Estruturas de controle #02 em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
