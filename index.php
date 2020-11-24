@@ -81,6 +81,14 @@
                         <li><a href="exercicio.php?dir=array&file=comparacao">Comparação de arrays</a></li>
                     </ul>
                 </div>
+                <div class="modulo verde-escuro">
+                    <h3>Seção 8: Estruturas de controle #2</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=controle2&file=for">Laço FOR</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_for">Desafio: FOR</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=foreach">FOREACH</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
