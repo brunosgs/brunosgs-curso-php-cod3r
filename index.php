@@ -78,6 +78,7 @@
                         <li><a href="exercicio.php?dir=array&file=array_const">Arrays constantes</a></li>
                         <li><a href="exercicio.php?dir=array&file=get">Usando $_GET</a></li>
                         <li><a href="exercicio.php?dir=array&file=post">Usando $_POST</a></li>
+                        <li><a href="exercicio.php?dir=array&file=comparacao">Comparação de arrays</a></li>
                     </ul>
                 </div>
             </nav>
