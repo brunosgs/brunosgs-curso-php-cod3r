@@ -87,6 +87,8 @@
                         <li><a href="exercicio.php?dir=controle2&file=for">Laço FOR</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=desafio_for">Desafio: FOR</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=foreach">FOREACH</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=break_continue">Break / Continue</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_impressao">Desafio: Impressão</a></li>
                     </ul>
                 </div>
             </nav>
