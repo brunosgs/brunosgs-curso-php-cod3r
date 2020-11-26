@@ -89,6 +89,7 @@
                         <li><a href="exercicio.php?dir=controle2&file=foreach">FOREACH</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=break_continue">Break / Continue</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=desafio_impressao">Desafio: Impressão</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=while">WHILE / DO WHILE</a></li>
                     </ul>
                 </div>
             </nav>
