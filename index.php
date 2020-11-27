@@ -90,6 +90,8 @@
                         <li><a href="exercicio.php?dir=controle2&file=break_continue">Break / Continue</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=desafio_impressao">Desafio: Impressão</a></li>
                         <li><a href="exercicio.php?dir=controle2&file=while">WHILE / DO WHILE</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_tabela">Desafio: Tabela #01</a></li>
+                        <li><a href="exercicio.php?dir=controle2&file=desafio_tabela2">Desafio: Tabela #02</a></li>
                     </ul>
                 </div>
             </nav>
