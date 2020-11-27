@@ -12,7 +12,8 @@ Os assuntos que vão ser abordados ao decorrer desse curso serão:
     <li>Variáveis e tipos de manipulações</li>
     <li>Estruturas de controle #01</li>
     <li>Arrays e Arrays multidimensional</li>
-    <li>Estruturas de controle #02 em progresso... :hourglass_flowing_sand:</li>
+    <li>Estruturas de controle #02</li>
+    <li>Funções em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
