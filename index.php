@@ -94,6 +94,12 @@
                         <li><a href="exercicio.php?dir=controle2&file=desafio_tabela2">Desafio: Tabela #02</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>Seção 9: Funções</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
