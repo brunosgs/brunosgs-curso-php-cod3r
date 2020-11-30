@@ -98,6 +98,7 @@
                     <h3>Seção 9: Funções</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=funcoes&file=escopo">Função & Escopo</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=argumentos_retorno">Argumentos e retorno</a></li>
                     </ul>
                 </div>
             </nav>
