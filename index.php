@@ -102,6 +102,7 @@
                         <li><a href="exercicio.php?dir=funcoes&file=desafio_palindromo">Desafio: Palíndromo</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=argumentos_variaveis">Argumentos variáveis</a></li>
                         <li><a href="exercicio.php?dir=funcoes&file=argumentos_padrao">Argumentos padrão</a></li>
+                        <li><a href="exercicio.php?dir=funcoes&file=declarando_tipos">Declarando tipos</a></li>
                     </ul>
                 </div>
             </nav>
