@@ -13,7 +13,8 @@ Os assuntos que vão ser abordados ao decorrer desse curso serão:
     <li>Estruturas de controle #01</li>
     <li>Arrays e Arrays multidimensional</li>
     <li>Estruturas de controle #02</li>
-    <li>Funções em progresso... :hourglass_flowing_sand:</li>
+    <li>Funções</li>
+    <li>Orientação a Objetos (OO) em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
