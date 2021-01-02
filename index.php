@@ -111,6 +111,12 @@
                         <li><a href="exercicio.php?dir=funcoes&file=map_filter">Map e Filter</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul-escuro">
+                    <h3>Seção 10: Orientação a Objetos</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira classe</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
