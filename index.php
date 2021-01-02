@@ -116,6 +116,7 @@
                     <ul>
                         <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira classe</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=desafio_data">Desafio: Classe data</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e destrutor</a></li>
                     </ul>
                 </div>
             </nav>
