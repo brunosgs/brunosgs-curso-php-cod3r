@@ -115,6 +115,7 @@
                     <h3>Seção 10: Orientação a Objetos</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=classes_objetos&file=classe">Primeira classe</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_data">Desafio: Classe data</a></li>
                     </ul>
                 </div>
             </nav>
