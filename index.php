@@ -119,6 +119,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e destrutor</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Modificadores de acesso</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros de classe (Static)</a></li>
                     </ul>
                 </div>
             </nav>
