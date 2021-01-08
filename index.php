@@ -122,6 +122,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros de classe (Static)</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe abstrata</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio: 7 erros</a></li>
                     </ul>
                 </div>
             </nav>
