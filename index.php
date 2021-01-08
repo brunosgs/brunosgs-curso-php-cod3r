@@ -121,6 +121,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=visibilidade">Modificadores de acesso</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=static">Membros de classe (Static)</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe abstrata</a></li>
                     </ul>
                 </div>
             </nav>
