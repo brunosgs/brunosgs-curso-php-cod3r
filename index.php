@@ -123,6 +123,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=abstract">Classe abstrata</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio: 7 erros</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=modificador_final">Modificador final</a></li>
                     </ul>
                 </div>
             </nav>
