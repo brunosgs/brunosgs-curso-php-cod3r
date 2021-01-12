@@ -5,7 +5,7 @@
 Nesse repositório você vai encontrar os conceitos estudados no curso [PHP 7 Completo - Curso do Desenvolvedor Web 2020 + Projetos](https://www.udemy.com/course/php-7-completo/)
 
 ## :speech_balloon: Assuntos abordados
-Os assuntos que vão ser abordados ao decorrer desse curso serão:
+Os assuntos que vão ser abordados ao decorrer do curso serão:
 <ul>
     <li>Integração do PHP com o HTML e CSS</li>
     <li>Tipos básicos do PHP</li>
@@ -14,7 +14,8 @@ Os assuntos que vão ser abordados ao decorrer desse curso serão:
     <li>Arrays e Arrays multidimensional</li>
     <li>Estruturas de controle #02</li>
     <li>Funções</li>
-    <li>Orientação a Objetos (OO) em progresso... :hourglass_flowing_sand:</li>
+    <li>Orientação a Objetos (OO)</li>
+    <li>Includes em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
