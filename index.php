@@ -125,6 +125,7 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=desafio_erros">Desafio: 7 erros</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=modificador_final">Modificador final</a></li>
                         <li><a href="exercicio.php?dir=classes_objetos&file=traits_01">Traits #01</a></li>
+                        <li><a href="exercicio.php?dir=classes_objetos&file=traits_02">Traits #02</a></li>
                     </ul>
                 </div>
             </nav>
