@@ -130,6 +130,12 @@
                         <li><a href="exercicio.php?dir=classes_objetos&file=polimorfismo">Polimorfismo</a></li>
                     </ul>
                 </div>
+                <div class="modulo roxo-escuro">
+                    <h3>Seção 11: Includes</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=includes&file=include">Arquivo include</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
