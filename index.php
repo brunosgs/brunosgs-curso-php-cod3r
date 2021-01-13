@@ -134,6 +134,7 @@
                     <h3>Seção 11: Includes</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=includes&file=include">Arquivo include</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include_funcao">Include função</a></li>
                     </ul>
                 </div>
             </nav>
