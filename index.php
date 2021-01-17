@@ -138,6 +138,7 @@
                         <li><a href="exercicio.php?dir=includes&file=include_require">Include vs Require</a></li>
                         <li><a href="exercicio.php?dir=includes&file=require_return">Require com retorno</a></li>
                         <li><a href="exercicio.php?dir=includes&file=include_once">Include/Require once</a></li>
+                        <li><a href="exercicio.php?dir=includes&file=include_desafio">Desafio: Include/Require</a></li>
                     </ul>
                 </div>
             </nav>
