@@ -15,7 +15,8 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     <li>Estruturas de controle #02</li>
     <li>Funções</li>
     <li>Orientação a Objetos (OO)</li>
-    <li>Includes em progresso... :hourglass_flowing_sand:</li>
+    <li>Includes em progresso</li>
+    <li>Namespace em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
