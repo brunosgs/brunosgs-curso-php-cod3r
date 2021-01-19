@@ -16,7 +16,8 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     <li>Funções</li>
     <li>Orientação a Objetos (OO)</li>
     <li>Includes</li>
-    <li>Namespace em progresso... :hourglass_flowing_sand:</li>
+    <li>Namespace</li>
+    <li>Tratamento de erros em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
