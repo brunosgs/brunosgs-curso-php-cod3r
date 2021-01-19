@@ -137,6 +137,7 @@
         <h3>Seção 13: Tratamento erros</h3>
         <ul>
             <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=erros_personalizado">Erros personalizados</a></li>
         </ul>
     </div>
 </nav>
