@@ -26,6 +26,7 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
         <li>Code Runner</li>
         <li>Material Icon Theme</li>
         <li>Format HTML in PHP</li>
+        <li>PHP Intelephense</li>
     </ul>
 
 - [Laragon](https://laragon.org/)
