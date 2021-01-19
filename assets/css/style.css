@@ -112,6 +112,14 @@ body {
     background-color: #ff9800;
 }
 
+.modulo.rosa {
+    border: 2px solid #e90ade;
+}
+
+.modulo.rosa>h3 {
+    background-color: #e90ade;
+}
+
 .modulo.verde-escuro {
     border: 2px solid #1b5e20;
 }
@@ -151,6 +159,8 @@ body {
 .modulo.laranja-escuro>h3 {
     background-color: #e65527;
 }
+
+
 
 .modulo>h3 {
     margin: 0px;

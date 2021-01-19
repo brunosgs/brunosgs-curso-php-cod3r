@@ -133,4 +133,10 @@
             <li><a href="exercicio.php?dir=namespace&file=use_as">Use/As</a></li>
         </ul>
     </div>
+    <div class="modulo rosa">
+        <h3>Seção 13: Tratamento erros</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a></li>
+        </ul>
+    </div>
 </nav>
