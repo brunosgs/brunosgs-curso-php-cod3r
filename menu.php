@@ -125,4 +125,10 @@
             <li><a href="exercicio.php?dir=includes&file=include_desafio">Desafio: Include/Require</a></li>
         </ul>
     </div>
+    <div class="modulo laranja-escuro">
+        <h3>Seção 12: Namespace</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=namespace&file=basico">Namespace</a></li>
+        </ul>
+    </div>
 </nav>

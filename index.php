@@ -15,7 +15,7 @@
     </header>
     <main class="principal">
         <div class="conteudo">
-            <?= require_once('menu.php'); ?>
+            <?php require_once('menu.php'); ?>
         </div>
     </main>
     <footer class="rodape">
