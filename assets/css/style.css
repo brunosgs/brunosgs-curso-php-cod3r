@@ -113,11 +113,11 @@ body {
 }
 
 .modulo.rosa {
-    border: 2px solid #e90ade;
+    border: 2px solid #f502e9;
 }
 
 .modulo.rosa>h3 {
-    background-color: #e90ade;
+    background-color: #f502e9;
 }
 
 .modulo.verde-escuro {
@@ -160,7 +160,13 @@ body {
     background-color: #e65527;
 }
 
+.modulo.rosa-escuro {
+    border: 2px solid #ad00a5;
+}
 
+.modulo.rosa-escuro>h3 {
+    background-color: #ad00a5;
+}
 
 .modulo>h3 {
     margin: 0px;
