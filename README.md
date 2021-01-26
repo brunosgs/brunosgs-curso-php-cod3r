@@ -17,7 +17,8 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     <li>Orientação a Objetos (OO)</li>
     <li>Includes</li>
     <li>Namespace</li>
-    <li>Tratamento de erros em progresso... :hourglass_flowing_sand:</li>
+    <li>Tratamento de erros</li>
+    <li>Sessão & Cookie em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
