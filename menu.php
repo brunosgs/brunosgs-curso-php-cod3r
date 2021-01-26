@@ -145,7 +145,8 @@
     <div class="modulo rosa-escuro">
         <h3>Seção 14: Sessão & Cookie</h3>
         <ul>
-            <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão #01</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=basico_sessao">Sessão</a></li>
+            <li><a href="exercicio.php?dir=sessao&file=gerenciado_sessao">Gerenciado sessão</a></li>
         </ul>
     </div>
 </nav>
