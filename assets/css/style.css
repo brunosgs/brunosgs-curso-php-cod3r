@@ -7,10 +7,11 @@ body {
     height: 100vh;
     margin: 0px;
     display: grid;
-    grid-template-rows: 120px 1fr 60px;
-    grid-template-columns: 1fr;
+    grid-template-rows: 120px 60px 1fr 60px;
+    grid-template-columns: 1fr;      
     grid-template-areas:
         "cabecalho"
+        "navegacao"
         "principal"
         "rodape";
 }
@@ -46,7 +47,7 @@ body {
     /* O atributo esta referenciando a propriedade 
     dentro do body que esta no grid-template-areas. */
     grid-area: principal;
-    height: calc(100vh - 180px);
+    height: calc(100vh - 240px);
     background-color: #f0f0f0;
     padding: 20px;
 }
@@ -208,4 +209,23 @@ body {
     font-size: 1.2rem;
     padding-right: 20px;
     color: #a3a3a3;
+}
+
+.navegacao {
+    grid-area: navegacao;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #999999;
+}
+
+.navegacao>a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 1.3rem;
+    background-color: #2196f3;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
 }
