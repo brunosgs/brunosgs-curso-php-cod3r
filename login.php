@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-if(isset($_POST['email'])) {
+if (isset($_POST['email'])) {
     $email = $_POST['email'];
     $senha = $_POST['senha'];
 
@@ -22,15 +22,17 @@ if(isset($_POST['email'])) {
         $emailValido = $email === $usuario['email'];
         $senhaValida = $senha === $usuario['senha'];
 
-        if($emailValido && $senhaValida){
+        if ($emailValido && $senhaValida) {
             $_SESSION['erros'] = null;
             $_SESSION['usuario'] = $usuario['nome'];
+            $expira = time() + 60 * 60 * 24  * 30;
 
+            setcookie('usuario', $usuario['nome'], $expira);
             header('Location: index.php');
         }
     }
 
-    if(!isset($_SESSION['usuario'])) {
+    if (!isset($_SESSION['usuario'])) {
         $_SESSION['erros'] = ['Usuário/Senha inválido!'];
     }
 }

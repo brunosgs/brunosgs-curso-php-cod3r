@@ -1,7 +1,11 @@
 <?php
 session_start();
 
-if(!$_SESSION['usuario']){
+if ($_COOKIE['usuario']) {
+    $_SESSION['usuario'] = $_COOKIE['usuario'];
+}
+
+if (!$_SESSION['usuario']) {
     header('Location: login.php');
 }
 ?>
@@ -22,7 +26,7 @@ if(!$_SESSION['usuario']){
         <h2>Índice dos Exercícios</h2>
     </header>
     <nav class="navegacao">
-        <span class="usuario">Usuário: <?= $_SESSION['usuario']?></span>
+        <span class="usuario">Usuário: <?= $_SESSION['usuario'] ?></span>
         <a href="logout.php" class="vermelho">Sair</a>
     </nav>
     <main class="principal">
@@ -31,7 +35,7 @@ if(!$_SESSION['usuario']){
         </div>
     </main>
     <footer class="rodape">
-        COD3R & ALUNOS &copy <?= date('Y');?>
+        COD3R & ALUNOS &copy <?= date('Y'); ?>
     </footer>
 </body>
 
