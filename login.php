@@ -3,7 +3,7 @@ session_start();
 
 if(isset($_POST['email'])) {
     $email = $_POST['email'];
-    $email = $_POST['senha'];
+    $senha = $_POST['senha'];
 
     $usuarios = [
         [

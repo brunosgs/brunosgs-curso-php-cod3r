@@ -8,7 +8,7 @@ body {
     margin: 0px;
     display: grid;
     grid-template-rows: 120px 60px 1fr 60px;
-    grid-template-columns: 1fr;      
+    grid-template-columns: 1fr;
     grid-template-areas:
         "cabecalho"
         "navegacao"
@@ -228,4 +228,36 @@ body {
     padding: 5px 10px;
     margin-right: 10px;
     border-radius: 5px;
+}
+
+.navegacao>a:hover {
+    background-color: #2152a0;
+    transition: 0.15s;
+}
+
+.navegacao>a.verde {
+    background-color: #4caf50;
+}
+
+.navegacao>a.verde:hover {
+    background-color: #38863c;
+    transition: 0.15s;
+}
+
+.navegacao>a.vermelho {
+    background-color: #f44336;
+}
+
+.navegacao>a.vermelho:hover {
+    background-color: #a83129;
+    transition: 0.15s;
+}
+
+span.usuario {
+    flex-grow: 1;
+    justify-self: flex-start;
+    color: #eee;
+    padding-left: 10px;
+    font-size: 1.2rem;
+    font-weight: 300;
 }
