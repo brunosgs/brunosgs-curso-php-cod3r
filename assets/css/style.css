@@ -121,6 +121,14 @@ body {
     background-color: #f502e9;
 }
 
+.modulo.amarelo {
+    border: 2px solid #f5e502;
+}
+
+.modulo.amarelo>h3 {
+    background-color: #f5e502;
+}
+
 .modulo.verde-escuro {
     border: 2px solid #1b5e20;
 }

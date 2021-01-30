@@ -149,4 +149,10 @@
             <li><a href="exercicio.php?dir=sessao&file=gerenciado_sessao">Gerenciado sessão</a></li>
         </ul>
     </div>
+    <div class="modulo amarelo">
+        <h3>Seção 15: API do PHP</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=api&file=datas_01">Datas #01</a></li>
+        </ul>
+    </div>
 </nav>
