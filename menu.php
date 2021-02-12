@@ -158,6 +158,7 @@
             <li><a href="exercicio.php?dir=api&file=ler_arquivo">Lendo arquivos</a></li>
             <li><a href="exercicio.php?dir=api&file=upload">Upload de arquivos</a></li>
             <li><a href="exercicio.php?dir=api&file=download">Download de arquivos</a></li>
+            <li><a href="exercicio.php?dir=api&file=desafio_imagens">Desafio: Imagens</a></li>
         </ul>
     </div>
 </nav>
