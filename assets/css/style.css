@@ -177,6 +177,14 @@ body {
     background-color: #ad00a5;
 }
 
+.modulo.amarelo-escuro {
+    border: 2px solid #aca113;
+}
+
+.modulo.amarelo-escuro>h3 {
+    background-color: #aca113;
+}
+
 .modulo>h3 {
     margin: 0px;
     color: #fff;
