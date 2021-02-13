@@ -20,7 +20,8 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     <li>Tratamento de erros</li>
     <li>Sessão & Cookie</li>
     <li>API do PHP</li>
-    <li>Formulário em progresso... :hourglass_flowing_sand:</li>
+    <li>Formulário</li>
+    <li>Banco de dados MySQL e PDO em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
