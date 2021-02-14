@@ -34,3 +34,4 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     </ul>
 
 - [Laragon](https://laragon.org/)
+- [MySQL workbench](https://downloads.mysql.com/archives/workbench/)
