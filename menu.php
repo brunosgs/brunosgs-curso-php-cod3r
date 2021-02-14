@@ -171,6 +171,7 @@
         <h3>Seção 17: Banco de dados</h3>
         <ul>
             <li><a href="exercicio.php?dir=db&file=criar_banco">Criar banco (Schema)</a></li>
+            <li><a href="exercicio.php?dir=db&file=criar_tabela">Criar tabela</a></li>
         </ul>
     </div>
 </nav>
