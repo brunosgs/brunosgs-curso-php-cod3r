@@ -167,4 +167,10 @@
             <li><a href="exercicio.php?dir=formulario&file=formulario">Criando formulário</a></li>
         </ul>
     </div>
+    <div class="modulo cinza">
+        <h3>Seção 17: Banco de dados</h3>
+        <ul>
+            <li><a href="exercicio.php?dir=db&file=criar_banco">Criar banco (Schema)</a></li>
+        </ul>
+    </div>
 </nav>
