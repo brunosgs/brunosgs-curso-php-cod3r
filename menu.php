@@ -175,6 +175,7 @@
             <li><a href="exercicio.php?dir=db&file=inserir_1">Inserir registro #01</a></li>
             <li><a href="exercicio.php?dir=db&file=consultar">Consultar registros</a></li>
             <li><a href="exercicio.php?dir=db&file=excluir_1">Excluir registro #01</a></li>
+            <li><a href="exercicio.php?dir=db&file=excluir_2">Excluir registro #02</a></li>
         </ul>
     </div>
 </nav>
