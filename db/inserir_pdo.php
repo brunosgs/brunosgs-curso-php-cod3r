@@ -20,9 +20,12 @@ $conexao = novaConexao();
 
 if ($conexao->exec($sql)) {
     $id = $conexao->lastInsertId();
+
     echo "Novo cadastro com id $id.";
 } else {
     echo $conexao->errorCode() . '<br>';
     print_r($conexao->errorInfo());
 }
+
+$conexao = null;
 ?>
