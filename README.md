@@ -24,6 +24,11 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
     <li>Banco de dados MySQL e PDO</li>
 </ul>
 
+Assuntos EXTRA curso que estão sendo abordados:
+<ul>
+    <li>JavaScript em progresso... :hourglass_flowing_sand:</li>
+</ul>
+
 ## :hammer_and_wrench: Ferramentas
 - [VSCode (Visual Studio Code)](https://code.visualstudio.com/) utilizando os plugins:
     <ul>
