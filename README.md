@@ -26,7 +26,8 @@ Os assuntos que vão ser abordados ao decorrer do curso serão:
 
 Assuntos EXTRA curso que estão sendo abordados:
 <ul>
-    <li>JavaScript em progresso... :hourglass_flowing_sand:</li>
+    <li>JavaScript</li>
+    <li>HTML em progresso... :hourglass_flowing_sand:</li>
 </ul>
 
 ## :hammer_and_wrench: Ferramentas
